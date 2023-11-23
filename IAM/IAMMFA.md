@@ -1,3 +1,5 @@
+## IAM Password Policy
+
 - Strong passwords = higher security for your accou
 - In AWS, you can setup a password policy:
   + Set a minimum password length
